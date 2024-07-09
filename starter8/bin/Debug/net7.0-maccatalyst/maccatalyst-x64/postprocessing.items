@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="starter8.app/Contents/MacOS/starter8">
+      <BCSymbolMapName>starter8.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>starter8.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/justice/Projects/starter8/starter8/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>starter8.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/justice/Projects/starter8/starter8</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
